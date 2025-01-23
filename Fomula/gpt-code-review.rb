@@ -6,7 +6,7 @@ class GptCodeReview < Formula
   license "MIT"
 
   def install
-    bin.install "gpt-code-review"
+    bin.install "mjreview"
   end
 
   test do
